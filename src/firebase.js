@@ -8,7 +8,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA1RVMrT5qj2aK2yZ0OQPuSXlF81g_jBRM",
+  apiKey: "",
   authDomain: "disneyplus-clone-8e260.firebaseapp.com",
   projectId: "disneyplus-clone-8e260",
   storageBucket: "disneyplus-clone-8e260.appspot.com",

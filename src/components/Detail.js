@@ -10,7 +10,6 @@ const Detail = (props) => {
 
     useEffect(() => {
         const fetchMovieData = async () => {
-            
             try {
                 const movieRef = doc(db, 'movies', id);
                 const movieSnap = await getDoc(movieRef);
